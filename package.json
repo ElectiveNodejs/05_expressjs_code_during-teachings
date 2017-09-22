@@ -19,6 +19,7 @@
     "url": "https://github.com/ElectiveNodejs/05_expressjs_code_during-teachings/issues"
   },
   "dependencies": {
+    "body-parser": "^1.18.1",
     "express": "^4.15.4"
   }
 }
